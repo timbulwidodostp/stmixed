@@ -1,4 +1,22 @@
-D 'DEA': Data envelopment analysis
+D 'stmixed': Fit multilevel mixed effects parametric survival analysis models Use stmixed With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F exptorcs.ado
+F exptorcs.sthlp
+F lmerlin.mlib
+F merlin.ado
+F merlin.sthlp
+F merlin_estimation.sthlp
+F merlin_model_options.sthlp
+F merlin_models.sthlp
+F merlin_p.ado
+F merlin_parse.ado
+F merlin_postestimation.sthlp
+F merlin_reporting.sthlp
+F merlin_user.sthlp
+F stmerlin.ado
+F stmerlin.sthlp
+F stmerlin_postestimation.sthlp
+F stmixed.ado
+F stmixed.sthlp
+F stmixed_postestimation.sthlp
+F stmixed_pred.ado
