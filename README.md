@@ -1,5 +1,7 @@
 # stmixed
-Fit multilevel mixed effects parametric survival analysis models Use stmixed With STATA 18
+Fit multilevel mixed effects parametric survival analysis models Use stmixed With STATA 19
+
+https://www.youtube.com/watch?v=ffDJmHNGIl8
 
 Olah Data Semarang
 
